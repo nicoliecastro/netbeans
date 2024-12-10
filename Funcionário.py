@@ -6,7 +6,7 @@ from tkinter import messagebox
 # Criando a janela principal
 root = tk.Tk()
 root.title("Cadastro Funcionário [Davy,Grazielli e Nicolie]")
-root.geometry("435x430")
+root.geometry("445x440")
 root.resizable(False, False)
 #root.minsize(400,400)
 #root.maxsize (700,700)
